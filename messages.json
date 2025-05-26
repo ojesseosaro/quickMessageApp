@@ -1,14 +1,6 @@
-[
-    {
-        "recipient": "+27797856486",
-        "messageID": "MSG001",
-        "messageHash": "3ceff665b5963b05388d22978ffc2016aec109520b1fcf4647c1f2cc2de485f2",
-        "body": "Hello"
-    },
-    {
-        "recipient": "+27797856486",
-        "messageID": "MSG002",
-        "messageHash": "350d1978560900ce79ee3a218e505d24879fbb4308cfc823521310b1184050fb",
-        "body": "Hello"
-    }
-]
+[{
+    "recipient": "+27797856486",
+    "messageID": "MSG001",
+    "messageHash": "3ceff665b5963b05388d22978ffc2016aec109520b1fcf4647c1f2cc2de485f2",
+    "body": "Hello"
+}]
